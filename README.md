@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Alício%20Mussenga&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-<a href="https://www.linkedin.com/in/alicio-mussenga" target="_blank">
+<a href="https://www.linkedin.com/in/al%C3%ADcio-mussenga-88646b3a6/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:aliciomussenga@gmail.com">
@@ -89,7 +89,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/alicio-mussenga" target="_blank">
+<a href="https://www.linkedin.com/in/al%C3%ADcio-mussenga-88646b3a6/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:aliciomussenga@gmail.com">
