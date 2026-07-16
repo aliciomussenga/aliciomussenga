@@ -76,11 +76,13 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aliciomussenga/aliciomussenga/output/github-contribution-grid-snake.svg" width="80%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aliciomussenga/aliciomussenga/output/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aliciomussenga/aliciomussenga/output/dist/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/aliciomussenga/aliciomussenga/output/dist/github-contribution-grid-snake.svg" width="80%"/>
+</picture>
 
 </div>
-
-> 🔧 Essa cobrinha animada é gerada automaticamente por um workflow do GitHub Actions — te explico como ativar logo abaixo.
 
 <br/>
 
