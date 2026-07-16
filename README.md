@@ -84,6 +84,8 @@
 
 </div>
 
+> 🔧 Essa cobrinha animada é gerada automaticamente por um workflow do GitHub Actions — te explico como ativar logo abaixo.
+
 <br/>
 
 ## 📫 Contato
