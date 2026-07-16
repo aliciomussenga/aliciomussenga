@@ -41,19 +41,17 @@
 
 <div align="center">
 
-<a href="#">
+<a href="https://github.com/aliciomussenga/Plataforma-De-Servicos-Locais">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliciomussenga&repo=plataforma-servicos-locais&theme=tokyonight&hide_border=true" />
 </a>
-<a href="#">
+<a href="https://github.com/aliciomussenga/Gson-Creativity-site">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliciomussenga&repo=gson-creativity&theme=tokyonight&hide_border=true" />
 </a>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliciomussenga&repo=hilary-tech&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/aliciomussenga/Website-HilariTech">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliciomussenga&repo=https://github.com/aliciomussenga/Website-HilariTech&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
-
-> ⚠️ Os cartões acima só carregam corretamente depois que os repositórios existirem no seu GitHub com esses nomes exatos (ou troque `repo=` pelo nome real de cada um).
 
 <br/>
 
@@ -77,14 +75,13 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aliciomussenga/aliciomussenga/output/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aliciomussenga/aliciomussenga/output/dist/github-contribution-grid-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/aliciomussenga/aliciomussenga/output/dist/github-contribution-grid-snake.svg" width="80%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aliciomussenga/aliciomussenga/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aliciomussenga/aliciomussenga/output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/aliciomussenga/aliciomussenga/output/github-contribution-grid-snake.svg" width="80%"/>
 </picture>
 
 </div>
 
-> 🔧 Essa cobrinha animada é gerada automaticamente por um workflow do GitHub Actions — te explico como ativar logo abaixo.
 
 <br/>
 
