@@ -8,6 +8,9 @@
 <a href="mailto:aliciomussenga@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https://alicio-portifolio.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-2E3192?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 <br/>
 
@@ -48,7 +51,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliciomussenga&repo=gson-creativity&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/aliciomussenga/Website-HilariTech">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliciomussenga&repo=https://github.com/aliciomussenga/Website-HilariTech&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliciomussenga&repo=Website-HilariTech&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -82,7 +85,6 @@
 
 </div>
 
-
 <br/>
 
 ## 📫 Contato
@@ -94,6 +96,9 @@
 </a>
 <a href="mailto:aliciomussenga@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://alicio-portifolio.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-2E3192?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
